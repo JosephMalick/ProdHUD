@@ -2943,6 +2943,28 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		AeroMaticsRegular24
+		{
+			"1"
+			{
+				"name"		"Aero Matics Regular"
+				"tall"		"24"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		AeroMaticsRegular32
+		{
+			"1"
+			{
+				"name"		"Aero Matics Regular"
+				"tall"		"32"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//////// ProdHUD Custom Fonts ////////
